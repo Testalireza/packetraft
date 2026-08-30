@@ -294,7 +294,6 @@ class Battlefield6ConfigGenerator:
     """
     
     # Battlefield 6 specific settings
-    BF6 Settings
     BF6_DNS = ["8.8.8.8", "8.8.4.4"]
     BF6_MTU = 1420
     BF6_KEEPALIVE = 25
